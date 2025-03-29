@@ -41,23 +41,23 @@ To run the code in this project, you will need:
 
 2. **Plot 2:** Total PM2.5 emissions in Baltimore City (1999-2008) using base plotting.
 
-![plot2](https://github.com/user-attachments/assets/b689e7b9-c1e6-42e0-a89d-361a2d5c13a9)
+  ![plot2](https://github.com/user-attachments/assets/b689e7b9-c1e6-42e0-a89d-361a2d5c13a9)
 
 3. **Plot 3:** PM2.5 emissions by source type in Baltimore (1999-2008) using ggplot2.
 
-![plot3](https://github.com/user-attachments/assets/8891cbd5-5e07-45f8-8fb7-23c64f23b899)
+  ![plot3](https://github.com/user-attachments/assets/8891cbd5-5e07-45f8-8fb7-23c64f23b899)
 
 4. **Plot 4:** Coal combustion-related PM2.5 emissions in the U.S. (1999-2008) using base plotting.
 
-![plot4](https://github.com/user-attachments/assets/dbad2218-e3ce-4afe-ad85-ccff71611b9f)
+  ![plot4](https://github.com/user-attachments/assets/dbad2218-e3ce-4afe-ad85-ccff71611b9f)
 
 5. **Plot 5:** Motor vehicle PM2.5 emissions in Baltimore (1999-2008) using base plotting.
 
-![plot5](https://github.com/user-attachments/assets/2dd69b78-de60-4603-854b-02cc8618e964)
+  ![plot5](https://github.com/user-attachments/assets/2dd69b78-de60-4603-854b-02cc8618e964)
 
 6. **Plot 6:** Comparison of motor vehicle PM2.5 emissions in Baltimore vs. Los Angeles (1999-2008) using ggplot2.
 
-![plot6](https://github.com/user-attachments/assets/b2449d93-90f3-4ce9-9afb-97fb6b7b6ccb)
+  ![plot6](https://github.com/user-attachments/assets/b2449d93-90f3-4ce9-9afb-97fb6b7b6ccb)
 
 ## Sample Code
 Below is the code for Plot 1:
